@@ -17,6 +17,7 @@
 		<extension name="platformhmc" />
 		<extension name="mediaconversion" />
 		<extension name="platformbackoffice" />
+		<extension name="cuppy" />
 
 	</extensions>
 </hybrisconfig>

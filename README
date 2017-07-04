@@ -1,16 +1,17 @@
-hybris Commerce Suite
+hybris and GIT integration 
 =====================
 
-Welcome to the hybris Commerce Suite. To install:
-
-On UNIX/Mac type:
-
-	cd installer
-	./install.sh
-
-On Windows type:
-
-	cd installer
-	install.bat
-
-Follow the help instructions on screen.
+hybris and GIT integration part 1 - into
+hybris and GIT integration part 2 - hybris instalation
+hybris and GIT integration part 3 - eclipse workspace
+hybris and GIT integration part 4 - create local git repo
+hybris and GIT integration part 5 - share with bitbucket
+hybris and GIT integration part 6 - share with Github
+hybris and GIT integration part 7 - add gitflow
+hybris and GIT integration part 8 - recapture 
+hybris and GIT integration part 9 - configure extensions
+hybris and GIT integration part 10 - import eclipse projects
+hybris and GIT integration part 11 - eclipse cleanup
+hybris and GIT integration part 12 - install custom project     
+hybris and GIT integration part 13 - commit custom project
+hybris and GIT integration part 13 - consume GIT repository
